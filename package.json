@@ -1,6 +1,6 @@
 {
   "name": "json-2-ts",
-  "displayName": "json转换ts",
+  "displayName": "json转ts",
   "description": "Convert JSON object to typescript interfaces",
   "version": "1.0.2",
   "publisher": "mrgaogang",
