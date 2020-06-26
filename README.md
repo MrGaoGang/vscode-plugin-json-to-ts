@@ -1,4 +1,6 @@
 
+项目已经迁移到[lucky_tools](https://github.com/MrGaoGang/lucky_tools)
+
 # JSON转换成typescript的interface
 
 ## 特色
